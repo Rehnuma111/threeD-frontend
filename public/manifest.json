@@ -1,0 +1,33 @@
+{
+  "short_name": "3D Modal Visualizer",
+  "name": "Render you 3D work without software..",
+  "icons": [
+    {
+      "src": "3d-icon.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon",
+      "purpose": "any maskable"
+
+    },
+    {
+      "src": "3d-icon.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+
+    },
+    {
+      "src": "3d-icon.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "prefer_related_applications": true
+
+}
